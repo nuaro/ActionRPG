@@ -1,1 +1,1 @@
-/// @descriptionIdle alarm
+/// @description Idle alarm

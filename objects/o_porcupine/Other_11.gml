@@ -1,4 +1,4 @@
-/// @descriptionidle state
+/// @description idle state
 image_index = 0;
 
 if alarm[1] <= 0 {
