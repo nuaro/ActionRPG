@@ -6,3 +6,5 @@ if alarm[1] <= 0 {
 	m_state = porcupine.move;
 	direction_ = random(360);
 }
+
+porcupine_attack();

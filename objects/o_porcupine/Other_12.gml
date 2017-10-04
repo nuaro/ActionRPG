@@ -26,3 +26,5 @@ if speed_ == 0 {
 
 
 }
+
+porcupine_attack();

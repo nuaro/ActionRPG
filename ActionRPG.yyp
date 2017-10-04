@@ -514,6 +514,44 @@
             }
         },
         {
+            "Key": "6eb0f1f0-46fc-4989-825a-cb4c57bfd8ed",
+            "Value": {
+                "id": "afd5af3a-c485-438e-9d9a-0c2bce6c772b",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/6eb0f1f0-46fc-4989-825a-cb4c57bfd8ed.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "707f3099-3b32-4e68-9160-16d5ba71d514",
+            "Value": {
+                "id": "9c2fe5f3-17e4-437d-a8cc-f4528ce5eaf2",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_porcupine_hitbox\/s_porcupine_hitbox.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7259dbf3-f2d4-444a-95f1-60543728f475",
             "Value": {
                 "id": "120ee928-a2b2-496f-96cc-22d689c55950",
@@ -548,6 +586,25 @@
                     "default"
                 ],
                 "resourcePath": "scripts\/move_movement_entity\/move_movement_entity.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "7b7e1067-0de0-4d21-9e0c-b5f6534b65e7",
+            "Value": {
+                "id": "d6af3b47-adee-4187-a8c5-b16cd0cae2c9",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/initialize_hurtbox_entity\/initialize_hurtbox_entity.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -701,6 +758,25 @@
                 ],
                 "resourcePath": "views\/96705a30-01ff-4986-aa52-08bfcaaa52ee.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "98665dab-9648-417d-82cb-a7f94ee843d7",
+            "Value": {
+                "id": "44999a7e-a6a7-4c8f-a8c9-7ca130130bc6",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/porcupine_attack\/porcupine_attack.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -875,6 +951,25 @@
             }
         },
         {
+            "Key": "c6b3d895-f494-4499-b973-e76e04b7a112",
+            "Value": {
+                "id": "fccb815b-c707-4b14-a843-3b50f9e80526",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/is_target\/is_target.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "c6eaceca-e115-40bd-928d-bdbdb55cd496",
             "Value": {
                 "id": "068991e6-e4f0-4212-99b1-a349e328806b",
@@ -891,6 +986,25 @@
                 ],
                 "resourcePath": "sprites\/s_player_roll_down\/s_player_roll_down.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c7be27e5-27fa-4469-a943-ac606888bc38",
+            "Value": {
+                "id": "1d098510-df97-432b-b5f5-f115bfab0eae",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/hurtbox_entity_can_be_hit_by\/hurtbox_entity_can_be_hit_by.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -1179,6 +1293,25 @@
             }
         },
         {
+            "Key": "feaf1056-293e-4aa5-8f7e-55ab2dde3275",
+            "Value": {
+                "id": "e7bfae1b-14c8-4dcc-a78d-ba147374b5fa",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_porcupine_attack\/s_porcupine_attack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "fffa335b-c149-41c4-8bd0-3506eaa2e3d4",
             "Value": {
                 "id": "05655e7f-538e-45be-8bda-c5a43112d10b",
@@ -1207,7 +1340,11 @@
         "571f4ead-8d04-41a1-8235-3d98736eebe5",
         "ebf15ea5-c04a-4d97-898c-67939e14494a",
         "5f392e65-4e33-42c9-b911-25f97d4ea2ed",
-        "82235b8f-3d00-4b16-8e69-81c7067972da"
+        "82235b8f-3d00-4b16-8e69-81c7067972da",
+        "c6b3d895-f494-4499-b973-e76e04b7a112",
+        "98665dab-9648-417d-82cb-a7f94ee843d7",
+        "7b7e1067-0de0-4d21-9e0c-b5f6534b65e7",
+        "c7be27e5-27fa-4469-a943-ac606888bc38"
     ],
     "tutorial": ""
 }

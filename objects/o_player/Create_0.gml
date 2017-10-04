@@ -1,4 +1,6 @@
 initialize_movement_entity(0.5,1,o_solid);
+initialize_hurtbox_entity();
+
 image_speed = 0;
 m_acceleration = 3;
 m_max_speed = 2.5;
